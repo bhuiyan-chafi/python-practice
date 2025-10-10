@@ -1,0 +1,44 @@
+2025-10-10 12:49:10 | DEBUG    | Debug message
+2025-10-10 12:49:10 | INFO     | Checking value against even, odd, multiple of 5
+2025-10-10 12:49:10 | SUCCESS  | Value even 0
+2025-10-10 12:49:10 | ERROR    | Error message 1
+2025-10-10 12:49:10 | SUCCESS  | Value even 2
+2025-10-10 12:49:10 | ERROR    | Error message 3
+2025-10-10 12:49:10 | SUCCESS  | Value even 4
+2025-10-10 12:49:10 | WARNING  | Value multiple of 5: 5
+2025-10-10 12:49:10 | SUCCESS  | Value even 6
+2025-10-10 12:49:10 | ERROR    | Error message 7
+2025-10-10 12:49:10 | SUCCESS  | Value even 8
+2025-10-10 12:49:10 | ERROR    | Error message 9
+2025-10-10 12:49:10 | SUCCESS  | Value even 10
+2025-10-10 12:49:10 | ERROR    | Error message 11
+2025-10-10 12:49:10 | SUCCESS  | Value even 12
+2025-10-10 12:49:10 | ERROR    | Error message 13
+2025-10-10 12:49:10 | SUCCESS  | Value even 14
+2025-10-10 12:49:10 | WARNING  | Value multiple of 5: 15
+2025-10-10 12:49:10 | SUCCESS  | Value even 16
+2025-10-10 12:49:10 | ERROR    | Error message 17
+2025-10-10 12:49:10 | SUCCESS  | Value even 18
+2025-10-10 12:49:10 | ERROR    | Error message 19
+2025-10-10 12:50:37 | DEBUG    | Debug message
+2025-10-10 12:50:37 | INFO     | Checking value against even, odd, multiple of 5
+2025-10-10 12:50:37 | SUCCESS  | Value even 0
+2025-10-10 12:50:37 | ERROR    | Error message 1
+2025-10-10 12:50:37 | SUCCESS  | Value even 2
+2025-10-10 12:50:37 | ERROR    | Error message 3
+2025-10-10 12:50:37 | SUCCESS  | Value even 4
+2025-10-10 12:50:37 | WARNING  | Value multiple of 5: 5
+2025-10-10 12:50:37 | SUCCESS  | Value even 6
+2025-10-10 12:50:37 | ERROR    | Error message 7
+2025-10-10 12:50:37 | SUCCESS  | Value even 8
+2025-10-10 12:50:37 | ERROR    | Error message 9
+2025-10-10 12:50:37 | SUCCESS  | Value even 10
+2025-10-10 12:50:37 | ERROR    | Error message 11
+2025-10-10 12:50:37 | SUCCESS  | Value even 12
+2025-10-10 12:50:37 | ERROR    | Error message 13
+2025-10-10 12:50:37 | SUCCESS  | Value even 14
+2025-10-10 12:50:37 | WARNING  | Value multiple of 5: 15
+2025-10-10 12:50:37 | SUCCESS  | Value even 16
+2025-10-10 12:50:37 | ERROR    | Error message 17
+2025-10-10 12:50:37 | SUCCESS  | Value even 18
+2025-10-10 12:50:37 | ERROR    | Error message 19
